@@ -1,19 +1,19 @@
-# 💳 CreditWise – Loan Approval Prediction System
+#  CreditWise – Loan Approval Prediction System
 
 An AI-powered web application that predicts loan approval based on applicant financial and personal details using Machine Learning.
 
-## 🔗 Live Demo
+## Live Demo
 [Click here to view the app]
 https://creditwise-loan-prediction-7cucjtbstl2eygrmwaxsyt.streamlit.app/
 (#) <!-- add your streamlit link after deployment -->
 
-## 📌 Features
+## Features
 - Predicts loan approval with confidence percentage
 - Interactive gauge chart showing approval probability
 - Risk factor analysis (Credit Score, DTI Ratio, Savings, Existing Loans)
 - Clean dark-themed UI built with Streamlit
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Scikit-learn (Random Forest Classifier)
 - Pandas, NumPy
@@ -21,7 +21,7 @@ https://creditwise-loan-prediction-7cucjtbstl2eygrmwaxsyt.streamlit.app/
 - Plotly
 - Joblib
 
-## 📊 Model Performance
+## Model Performance
 | Model | Accuracy | F1 Score |
 |-------|----------|----------|
 | Logistic Regression | 87.5% | 0.797 |
@@ -29,6 +29,6 @@ https://creditwise-loan-prediction-7cucjtbstl2eygrmwaxsyt.streamlit.app/
 | Naive Bayes | 86.5% | 0.769 |
 | **Random Forest** | **90%** | **0.838** |
 
-✅ Selected: Random Forest (best accuracy and F1 score)
+Selected: Random Forest (best accuracy and F1 score)
 
-## 📁 Project Structure
+## Project Structure
