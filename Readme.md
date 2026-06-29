@@ -3,7 +3,9 @@
 An AI-powered web application that predicts loan approval based on applicant financial and personal details using Machine Learning.
 
 ## 🔗 Live Demo
-[Click here to view the app](#) <!-- add your streamlit link after deployment -->
+[Click here to view the app]
+https://creditwise-loan-prediction-7cucjtbstl2eygrmwaxsyt.streamlit.app/
+(#) <!-- add your streamlit link after deployment -->
 
 ## 📌 Features
 - Predicts loan approval with confidence percentage
